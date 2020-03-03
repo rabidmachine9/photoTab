@@ -1,0 +1,14 @@
+{
+  "name": "phototab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "photo-intel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "color-thief": "^2.2.5"
+  }
+}

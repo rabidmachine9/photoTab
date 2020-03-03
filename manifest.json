@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Phototab",
+  "version": "0.0",
+
+  "description": "Get a random photo in your new tab",
+
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+  "chrome_url_overrides" : {
+    "newtab": "new-tab.html"
+  }
+}
